@@ -1,0 +1,10 @@
+.circle {
+    width: 72px; /* Set the width of the circle */
+    height: 72px; /* Set the height of the circle */
+    border-radius: 50%; /* Make it a circle by setting border-radius to 50% */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff; /* Set the text color */
+    font-size: 18px; /* Set the font size */
+  }

@@ -1,0 +1,21 @@
+.totalTickets-card{
+    background-image: linear-gradient(to right, #1E2A78, #FF2E4C);
+}
+.un-Assigned-card{
+    background-image: linear-gradient(to right, #49BCF6, #49DEB2);
+}
+.assigned-card{
+    background-image: linear-gradient(to right, #DC4473, #FF6861);
+}
+.in-Progress-card{
+    background-image: linear-gradient(to right, #56CCF2, #2F80ED);
+}
+.closed-card{
+    background-image: linear-gradient(to right, #FC4A1A, #F7B733);
+}
+.totalEmp-card{
+    background-image: linear-gradient(to right, #5E000C, #C1000F);
+}
+.totalDept-card{
+    background-image: linear-gradient(to right, #000046, #1CB5E0);
+}
